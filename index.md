@@ -1,7 +1,7 @@
 # Welcome to the Story of my Meme.
 
 ## About me!
-I am a final year BCom/BSci conjoint student who is not skilled at all in programming or anything like that. I have tried avoiding coding during my entire 
+I am a final year BCom/BSci conjoint student who is not skilled at all in programming or anything like that. I have tried avoiding coding my entire 
 University journey until a friend recommended me taking STATS220.
 
 So here is a Meme representing how STATS220 is really going for me and I hope, other students aswell.
@@ -10,11 +10,11 @@ So here is a Meme representing how STATS220 is really going for me and I hope, o
 Mr Beans faces in this meme says it all - my facial expressions, programming proficiency and most of all - my grasp of the course content so far.
 
 ## Meme Logistics
-I made this meme using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
+I made this meme using the "R" package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
 I had made alterations to the pictures and their dimensions, added additional coding to make the meme more pleasing to the eye and followed the R Coding rules.
 
-Here is the sophisticated coding that went into it all:
+Here is the sophisticated 'R' coding that went into it all:
 
 library(magick)
 
